@@ -1,18 +1,18 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
+title: Artificial Edge
+description: ''
+url: 'http://github.com/ArtificialEdge'
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Deen Dayal'
+  email: dmohan@buffalo.edu
+  twitter_username: deen_cfc
+  facebook_username: deen.dayal.56 
+  github_username:  ArtifcialEdge
+  linkedin_username:  deendayalmohan
 
 defaults:
   -
